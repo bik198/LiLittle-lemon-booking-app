@@ -64,23 +64,23 @@ export const testimonials = [
   {
     id: 1,
     image: andrea,
-    name: 'Andrea Smith',
+    name: 'Person 1',
   },
   {
     id: 2,
     image: jane,
-    name: 'Jane Marks',
+    name: 'Person 2',
   },
   {
     id: 3,
     image: john,
-    name: 'John Doe',
+    name: 'Person 3',
   },
 
   {
     id: 4,
     image: mark,
-    name: 'Mark James',
+    name: 'Person 4',
   },
 ];
 
@@ -88,18 +88,18 @@ export const testimonials = [
 export const contacts = [
   {
     id: 1,
-    link: 'mailto:jim@rock.com',
-    title: 'jim@rock.com',
+    link: 'mailto:person1@gmail.com',
+    title: 'person1@gmail.com',
   },
   {
     id: 2,
-    link: 'tel:+13115552368',
-    title: '(311) 555-2368',
+    link: 'tel:+1212121212',
+    title: '(121) 1212121212',
   },
   {
     id: 3,
-    link: 'mailto:littlemon@bookings.com',
-    title: 'littlemon@bookings.com',
+    link: 'mailto:person2@gmail.com',
+    title: 'person2@gmail.com',
   },
 ];
 
